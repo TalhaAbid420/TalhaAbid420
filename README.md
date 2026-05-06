@@ -1,5 +1,5 @@
 # 💫 About Me:
-Problem Solving<br>Research<br><br>DSA, AI and Data Science<br>Generative-AI<br>Chatbots<br>
+Problem Solving<br>Research<br><br>DSA, AI and Data Science<br>Generative-AI<br>Chatbots<br>Full-Stack Development<br>Machine Learning
 
 
 ## 🌐 Socials:
